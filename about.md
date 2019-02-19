@@ -12,6 +12,7 @@ show_staff: true
 partners:
 - "/uploads/2017/11/13/biotech.png"
 - "/uploads/2017/11/13/CNODES-logo-lg.jpg"
+show_news: true
 menu:
   footer:
     identifier: _about
